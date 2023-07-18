@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_drilling_open_music"]=self["webpackChunkproyecto_drilling_open_music"]||[]).push([[443],{782:function(n,e,r){r.r(e),r.d(e,{default:function(){return p}});var u=r(252);const i={class:"about"},t=(0,u._)("h1",null,"This is an about page",-1),c=[t];function o(n,e){return(0,u.wg)(),(0,u.iD)("div",i,c)}var s=r(744);const a={},l=(0,s.Z)(a,[["render",o]]);var p=l}}]);
+//# sourceMappingURL=about.a1001163.js.map
